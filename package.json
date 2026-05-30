@@ -1,0 +1,13 @@
+{
+  "name": "random-image-electron-clean",
+  "version": "1.0.0",
+  "description": "Приложение Случайная картинка",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "start:direct": ".\\node_modules\\electron\\dist\\electron.exe ."
+  },
+  "devDependencies": {
+    "electron": "28.3.3"
+  }
+}
